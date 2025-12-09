@@ -165,13 +165,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshots
 
-(Add your actual project screenshots)
-
-### Training Notebook
-
-*(Insert image)*
 
 ### Web App / Postman Testing
 
