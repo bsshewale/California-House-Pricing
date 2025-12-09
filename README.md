@@ -175,28 +175,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📦 Deployment (Optional Sections)
-
-If you deployed the model:
-
-### Heroku Deployment
-
-Include:
-
-* Procfile
-* runtime.txt
-* steps to deploy
-
----
-
-## 📝 Future Improvements
-
-* Add multiple model options (Random Forest, XGBoost)
-* Build a React-based frontend
-* Add CI/CD pipeline
-* Logging & monitoring
-
----
 
 ## 🧑‍💻 Author
 
